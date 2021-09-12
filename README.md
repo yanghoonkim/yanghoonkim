@@ -1,4 +1,11 @@
-### Hi there 👋
+## Yanghoon Kim
+
+### About Me: [https://yanghoonkim.github.io/](https://yanghoonkim.github.io/)
+
+I make AI-based quant strategy.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunho0130/)](https://www.linkedin.com/in/yanghoon-kim-034167a6/) 
+[![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=MiHTvZQAAAAJ)](https://scholar.google.co.kr/citations?user=F4Y3CK4AAAAJ&hl=en) 
 
 <!--
 **yanghoonkim/yanghoonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#
