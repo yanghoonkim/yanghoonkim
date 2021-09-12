@@ -2,9 +2,9 @@
 
 ### About Me: [https://yanghoonkim.github.io/](https://yanghoonkim.github.io/)
 
-<ins>I make AI-based quant strategies.</ins>
+🌟 I make AI-based quant strategies.
 
-Feel free to email me if you (are):
+🌟 Feel free to email me if you (are):
 - interested/enthusiastic in trading, asset management, and other investing-related stuff based on AI (machine learning/deep learning)
 - want to share some insights
 
