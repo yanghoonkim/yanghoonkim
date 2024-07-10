@@ -2,10 +2,9 @@
 
 ### About Me: [https://yanghoonkim.github.io/](https://yanghoonkim.github.io/)
 
-🌟 I make AI-based quant strategies.
+🌟 I make On-Deice AI-empowered workflow automation app.
 
 🌟 Feel free to email me if you (are):
-- interested/enthusiastic in trading, asset management, and other investing-related stuff based on AI (machine learning/deep learning)
 - want to share some insights
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunho0130@gmail.com)](mailto:ad26kt@gmail.com) 
