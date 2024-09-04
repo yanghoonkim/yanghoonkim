@@ -2,7 +2,7 @@
 
 ### About Me: [https://yanghoonkim.github.io/](https://yanghoonkim.github.io/)
 
-🌟 I make On-Deice AI-empowered workflow automation app.
+🌟 I make an AI-empowered workflow automation tool.
 
 🌟 Feel free to email me if you (are):
 - want to share some insights
